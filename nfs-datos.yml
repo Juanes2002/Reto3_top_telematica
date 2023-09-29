@@ -1,0 +1,20 @@
+BD service
+nombre base de datos: mydrupal
+usuario: postgres
+contraseña: postgres
+
+--------------------------------------
+
+NFS service
+Directorio compartido: /var/nfs/shared/confs
+
+
+Drupal service
+Directorio compartido cliente: /nfs/shared/confs
+
+
+Drupal
+------------------------
+Correo: aamontoya@eafit.edu.co
+Usuario: aamontoya 
+Contraseña: root
